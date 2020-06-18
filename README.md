@@ -8,7 +8,7 @@ These resource files can be HTML templates, images, whatever.
 ## Example
 
 ```
-% git clone https://github.com/psyb0t/go-generate-resources.git && cd go-generate-resources && go install
+% go get github.com/psyb0t/go-generate-resources
 % cd /path/to/my/resources
 % tree
 .
