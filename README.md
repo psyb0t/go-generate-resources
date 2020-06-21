@@ -4,7 +4,7 @@ This tool writes a Go source file named resource.go containing a map of all of t
 
 It requires one argument which is the package name to which the source file will belong.
 
-The purpose of this is to have required files embedded directly in the binary.
+The purpose of this is to have required files embedded in the binary.
 
 These resource files can be HTML templates, images, whatever.
 
